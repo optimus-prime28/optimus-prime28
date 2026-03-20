@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/optimus-prime28/optimus-prime28/main/profile-avatar.png" width="200" height="200" alt="Avatar"/>
-  <h1>Hi there, I'm Nehul Thakur 👋</h1>
+  <h1>Hi there, I'm Spidey 👋</h1>
   <h3>Data Science student & Developer based in New Chandigarh, Punjab</h3>
 
   <p>
